@@ -29,6 +29,7 @@ gem 'puma', '~> 3.7'
 gem 'foreman'
 
 gem 'devise'
+gem 'devise_token_auth'
 gem 'omniauth-twitter'
 gem 'dotenv-rails'
 
